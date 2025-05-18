@@ -1,7 +1,7 @@
-package io.github.rdlopes.ledger.config;
+package io.github.rdlopes.ledger.features.config;
 
 import io.cucumber.spring.CucumberContextConfiguration;
-import io.github.rdlopes.ledger.LedgerApplication;
+import io.github.rdlopes.ledger.application.LedgerApplication;
 import org.springframework.boot.test.autoconfigure.json.AutoConfigureJson;
 import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
 import org.springframework.boot.test.context.SpringBootTest;

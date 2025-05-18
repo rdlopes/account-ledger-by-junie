@@ -1,4 +1,4 @@
-package io.github.rdlopes.ledger;
+package io.github.rdlopes.ledger.application;
 
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
