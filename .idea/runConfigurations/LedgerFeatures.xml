@@ -1,0 +1,19 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="LedgerFeatures" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="account-ledger-by-junie" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="io.github.rdlopes.ledger.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="io.github.rdlopes.ledger" />
+    <option name="MAIN_CLASS_NAME" value="io.github.rdlopes.ledger.LedgerFeatures" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <option name="VM_PARAMETERS" value="-ea -Xshare:off -javaagent:$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy-agent/1.15.11/byte-buddy-agent-1.15.11.jar" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

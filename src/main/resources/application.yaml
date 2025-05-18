@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ledger
+
+logging:
+  level:
+    root: warn
+    io.github.rdlopes: info
